@@ -1,0 +1,16 @@
+.name {
+    color: floralwhite;
+}
+
+.foot {
+    background-color: grey;
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+}
+
+.linkicon {
+    height: 40px;
+    width: 40px;
+}
